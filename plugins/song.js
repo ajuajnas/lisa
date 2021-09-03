@@ -8,11 +8,11 @@ Asena.addCommand({pattern: 'song', fromMe: false,dontAddCommandList: true}, (asy
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
 r_text[1] = "pinkye tholpikkaan ningalkavilla. Jeevitathil pinkiye tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
-r_text[2] = "LiyaMol says i love you 😘";
-r_text[3] = "LiyaMoludeyude yudhangal Company Kanan Povunnatheyuloo";
+r_text[2] = "Chinju-Mwol says i love you 😘";
+r_text[3] = "Chinjumwoludeyude yudhangal Company Kanan Povunnatheyuloo";
 r_text[4] = "hi, how are you";
 r_text[5] = "ennikk korch rest theroo...🥵🥵";
-r_text[6] = "LiyaMol - eva - simsim \ningane ethra ethra paerugal aan alle enikk..😂🤣";
+r_text[6] = "ChinjuMwol - eva - simsim \ningane ethra ethra paerugal aan alle enikk..😂🤣";
 r_text[7] = "താനാരാണെന്ന് തനിക്ക് അറിയാന്‍ മേലങ്കില്‍താന്‍ എന്നോട്‌ ചോദിക്ക്.. താനാരണെന്ന്...തനിക്ക് ഞാന്‍ പറഞ്ഞു തരാംതാനാരാണെന്ന്...എന്നിട്ട്‌ഞാനാരാണെന്ന് എനിക്കാറിയാമൊന്നുതാനെന്നോട്‌ ചോദിക്ക്..അപ്പോ തനിക്ക് ഞാന്‍ പറഞ്ഞു തരാംതാനാരാണെന്നും ..ഞാനാരാണെന്നും - കുതിരവട്ടം പപ്പു, മണിച്ചിത്രതാഴ് ";
 r_text[8] = "\n enne vilicho...?🧐 \n";
 r_text[9] = "ente per LiyaMol,ninte per donkey, backi ellarum monkey😼😼";
@@ -36,7 +36,7 @@ r_text[26] = "\nAthu enne uddheshichanu… enne thanney uddheshichanu… enne ma
 r_text[27] = "\nBeedi undo saghave, oru theepetti edukkan\n";
 r_text[28] = "\nIppo sheriyakithara… ippo sheriyakithara…\n";
 r_text[29] = "\nEnne kollathirikkan pattuo? illa alley?\n";
-r_text[30] = "motivate cheyaan aarkum kayyum ath cheyth kaanikkaaana paad.\n       -Pinky";    
+r_text[30] = "motivate cheyaan aarkum kayyum ath cheyth kaanikkaaana paad.\n       -Chinju/-";    
 var i = Math.floor(31*Math.random())
 
 await message.sendMessage(r_text[i]);
